@@ -4,7 +4,8 @@
 
 ## 作ったサービス
 - はてなブックマークやQiita,Zennなどのトレンド記事を見れるアプリ  
-https://articlez.dev
+URL: https://articlez.dev
+GitHub: https://github.com/okoeee/articlez
 
 - 自分のタイムラインのTweetを管理できるアプリ  
 https://tweet-manager-app.herokuapp.com/

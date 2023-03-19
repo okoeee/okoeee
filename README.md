@@ -9,3 +9,4 @@ GitHub: https://github.com/okoeee/articlez
 
 - 自分のタイムラインのTweetを管理できるアプリ  
 URL: https://tweet-manager-app.herokuapp.com/
+※GitHubのコードは後々公開します
